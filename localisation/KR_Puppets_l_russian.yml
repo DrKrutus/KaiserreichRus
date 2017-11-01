@@ -1,0 +1,26 @@
+﻿l_russian:
+
+### Autonomy Levels ###
+kr_integrated_puppet:0 "Интегрированная Марионетка"
+kr_occupied_puppet:0 "Оккупированная Марионетка"
+kr_default_puppet:0 "Марионетка"
+kr_autonomous_puppet:0 "Автономная Марионетка"
+kr_nominal_puppet:0 "Номинальная Марионетка"
+kr_special_autonomous_dependency:0 "Автономная Зависимость"
+
+### Tooltips ###
+can_lower_autonomy_level:0 "Можете понизить автономию\n"
+can_raise_autonomy_level:0 "Можете повысить автономию\n"
+puppet_can_become_free:0 "Можете стать независимыми\n"
+puppet_can_be_annexed:0 "Можете быть интегрированы\n"
+may_raise_autonomy:0 "§Y[Root.GetNameDef]§! может повысить свою автономию\n"
+may_become_free:0 "§Y[Root.GetNameDef]§! может обрести независимость\n"
+
+### Events ###
+kr.political.100.t:0 "Восстановлен порядок в [Root.GetNameDef]"
+kr.political.100.d:0 "Хотя [Root.GetNameDef] всё ещё находится в зависимости от [overlord_name.GetAdjective], [Root.GetAdjective] военные смогли собрать достаточно авторитета, чтобы повысить свою автономию. Это далеко не независимость, но войска [overlord_name.GetAdjective] больше не будут расхаживать по нашим территориям, как по своей земле."
+kr.political.100.a:0 "Отлично"
+
+kr.political.101.t:0 "Расширенная [Root.GetAdjective] автономия?"
+kr.political.101.d:0 "[Root.GetNameDef] всё ещё остаётся под контролем [overlord_name.GetAdjective] правительства, но этот контроль стал чисто формальным. [Root.GetAdjective] мощь - уже не то, что можно просто было подавить в зародыше. Несомненно, наши [overlord_name.GetAdjective] хозяева больше не смогут слишком долго нас удерживать."
+kr.political.101.a:0 "Да здравствует [Root.GetNameDef]!"

@@ -1,0 +1,241 @@
+﻿l_russian:
+
+### Events ###
+
+april.1.t:0 "Восхождение Модеров"
+april.1.d:0 "Сегодня на заре странное судно спустилось с небес в центр Хельсинки, издавая не менее странные звуки и излучая свет. Когда судно село, к огромному удивлению жителей города, множество мужчин в футуристичных костюмах вышло из судна и заявило, что они гости из другого мира, что этот мир принадлежал им и что они даже создали этот мир! \n Гордые финны оказалис сопротивление этим 'создателям', но все тщетно. Технологии, значительно превосходящие все, что можно даже представить, позволили захватить Модерам всю юго-западную Финляндию. В то же время странное светопредставление было замечено и в Корее. Безумие, не иначе. \n Модеры, как они сами себя называют, все расширяются, и, кажется, никто не в силах их остановить. Неужели этот мир обречен?" 
+april.1.a:0 "Поглядим, что из этого станется..."
+april.1.b:0 "Но я один из них! (Сражаться в войне)"
+how_to_switch:0 "§RЧтобы переключиться, откройте консоль и введите 'tag EMP' или начните игру заново за мажора и выберите этот вариант.§!\n\n"
+no_april:0 "Модеры не вернутся в этот раз."
+april.1.e:0 "О нет!"
+
+april.2.t:0 "Новая угроза"
+april.2.d:0 "Сразу за появлением Великих Старых Модеров такого же рода новый феномен случился в Корее. Второй корабль открыл для наз 'Новых Модеров' и многочисленные новые виды, неизвестные для нас. Они заявляют, что из той же вселенной, что и 'Империя' и их миссия уничтожить ее ради блага человечества.\n Довольно скоро они оккупировали все соседние территории и сейчас активно расширяются, чтобы уничтожить своего врага. Наше командование сконфужено, 'Новые Модеры' с нами или против нас?"
+april.2.a:0 "Проклятые повстанцы! (Играть за Империю)"
+april.2.b:0 "На самом деле, они выглядят круче! (Играть за повстанцев)"
+
+april.3.t:0 "Постоянно растущая угроза"
+april.3.d:0 "Куда бы мы ни пошли, враги сталпливаются на наших границах. Кажется, им нет конца. Наш единственный выбор — превентивный удар. Они не заботятся о сохранении мира, почему должны мы?"
+april.3.a:0 "Сарматия хочет!"
+
+april.4.t:0 "Вторая Финно-Корейская Гипервойна!"
+april.4.d:0 "Две инопланетные державы наконец направили оружие друг на друга. Сообщают о невиданной доселе кровожадности битв. Горы из трупов возвышаются на сотни метров над землей. Кажется, что ничего подобного в человеческой истории не могло быть, но некоторые древние источники поведали нам, что мы ошибаемся. Более двух тысяч лет назад Финно-Корейская Гипервойна между империей Хвань и Древней Финской Империей содрогала землю, повергнув все человечество в Темные Века и уничтожив все технологические достижения. Некоторые считают, что Гипервойны наказанье Божье за наши высокомерные попытки достичь Его подобия. Неизвестно, правдиво ли это пророчество, но одно известно точно — война войдет в историю как 'Вторая Финно-Корейская Гипервойна'."
+april.4.a:0 "Удручает."
+
+### Names ###
+
+EMP_authoritarian_democrat:0 "Старые Великие Модеры"
+EMP_authoritarian_democrat_ADJ:0 "Старые Великие"
+EMP_authoritarian_democrat_DEF:0 "The Старые Великие Модеры"
+EMP_market_liberal:0 "Старые Великие Модеры"
+EMP_market_liberal_ADJ:0 "Старые Великие"
+EMP_market_liberal_DEF:0 "The Старые Великие Модеры"
+EMP_national_populist:0 "Старые Великие Модеры"
+EMP_national_populist_ADJ:0 "Старые Великие"
+EMP_national_populist_DEF:0 "The Старые Великие Модеры"
+EMP_paternal_autocrat:0 "Старые Великие Модеры"
+EMP_paternal_autocrat_ADJ:0 "Старые Великие"
+EMP_paternal_autocrat_DEF:0 "Старые Великие Модеры"
+EMP_radical_socialist:0 "Старые Великие Модеры"
+EMP_radical_socialist_ADJ:0 "Старые Великие"
+EMP_radical_socialist_DEF:0 "Старые Великие Модеры"
+EMP_social_conservative:0 "Старые Великие Модеры"
+EMP_social_conservative_ADJ:0 "Старые Великие"
+EMP_social_conservative_DEF:0 "The Старые Великие Модеры"
+EMP_social_democrat:0 "Старые Великие Модеры"
+EMP_social_democrat_ADJ:0 "Старые Великие"
+EMP_social_democrat_DEF:0 "Старые Великие Модеры"
+EMP_social_liberal:0 "Старые Великие Модеры"
+EMP_social_liberal_ADJ:0 "Старые Великие"
+EMP_social_liberal_DEF:0 "Старые Великие Модеры"
+EMP_syndicalist:0 "Старые Великие Модеры"
+EMP_syndicalist_ADJ:0 "Старые Великие"
+EMP_syndicalist_DEF:0 "Старые Великие Модеры"
+EMP_totalist:0 "Старые Великие Модеры"
+EMP_totalist_ADJ:0 "Старые Великие"
+EMP_totalist_DEF:0 "Старые Великие Модеры"
+
+REB_authoritarian_democrat:0 "Новый Кайзеррайх"
+REB_authoritarian_democrat_ADJ:0 "Новые"
+REB_authoritarian_democrat_DEF:0 "Новый Кайзеррайх"
+REB_market_liberal:0 "Новый Кайзеррайх"
+REB_market_liberal_ADJ:0 "Новые"
+REB_market_liberal_DEF:0 "Новый Кайзеррайх"
+REB_national_populist:0 "Новый Кайзеррайх"
+REB_national_populist_ADJ:0 "Новые"
+REB_national_populist_DEF:0 "Новый Кайзеррайх"
+REB_paternal_autocrat:0 "Новый Кайзеррайх"
+REB_paternal_autocrat_ADJ:0 "Новые"
+REB_paternal_autocrat_DEF:0 "Новый Кайзеррайх"
+REB_radical_socialist:0 "Новый Кайзеррайх"
+REB_radical_socialist_ADJ:0 "Новые"
+REB_radical_socialist_DEF:0 "Новый Кайзеррайх"
+REB_social_conservative:0 "Новый Кайзеррайх"
+REB_social_conservative_ADJ:0 "Новые"
+REB_social_conservative_DEF:0 "Новый Кайзеррайх"
+REB_social_democrat:0 "Новый Кайзеррайх"
+REB_social_democrat_ADJ:0 "Новые"
+REB_social_democrat_DEF:0 "Новый Кайзеррайх"
+REB_social_liberal:0 "Новый Кайзеррайх"
+REB_social_liberal_ADJ:0 "Новые"
+REB_social_liberal_DEF:0 "Новый Кайзеррайх"
+REB_syndicalist:0 "Новый Кайзеррайх"
+REB_syndicalist_ADJ:0 "Новые"
+REB_syndicalist_DEF:0 "Новый Кайзеррайх"
+REB_totalist:0 "Новый Кайзеррайх"
+REB_totalist_ADJ:0 "Новые"
+REB_totalist_DEF:0 "Новый Кайзеррайх"
+
+POLITICS_SARMATIA_KRHOI_DESC:0 "Великий создатель мода, в который вы сейчас играете. 12 лет назад, ночью, когда за окном буянил шторм, Он создал этот мод, объединяя кусочки из Его же мода про Россию и других популярных альт-хистори вселенных, чтобы создать величественный мод Kaiserreich, Legacy of the Weltkrieg. Надолго исчезнув, он наконец вернулся, чтобы помочь модерам Кайзеррайха4 на их пути к Величию. Заручившись могучей поддержкой, Он принял командование над всем, включая командование армиями и флотом."
+POLITICS_SARMATIA_DESC:0 "Великий создатель мода, в который вы сейчас играете. 12 лет назад, ночью, когда за окном буянил шторм, Он создал этот мод, объединяя кусочки из Его же мода про Россию и других популярных альт-хистори вселенных, чтобы создать величественный мод Kaiserreich, Legacy of the Weltkrieg. Сейчас Он лидер таинственной секты. Никто не видел Его, но все знают, что Он кроется в ближайшей тени. Поговаривают, что только Yuriswe может связаться с Ним, но ритуал неизвестен никому более."
+
+### Ideas ###
+
+fourth_wall_broken:0 "Четвертая Стена сломана"
+cyber_rebellion:0 "Молодежь вступает в борьбу"
+
+### Ministers ###
+
+eco_school_of_beep_boop:0 "Доктрина Бип-Буп"
+mhc_school_of_airhorn:0 "Доктрина воздуховодов"
+cnav_course_rough_irritating:0 "Курс, грубый, раздражающий"
+cair_academy_of_agressive_a_wing_attacks:0 "Академия агрессивных атак А-крылов"
+
+################################################################################################################################################################################################
+### EMP
+################################################################################################################################################################################################
+
+	### Head of Government ###
+	 EMP_AC_hog_pau:0 "AC"
+	 AC_dead:0 " is incapable of holding this post."
+	 EMP_Johnny_Canuck_hog_pau:0 "Johnny Canuck"
+	 Johnny_Canuck_dead:0 " is incapable of holding this post."
+	 EMP_Straczynski_hog_npo:0 "Straczynski"
+	 Straczynski_dead:0 " is incapable of holding this post."
+
+	### Foreign Minister ###
+	 EMP_Kretoxian_for_pau:0 "Kretoxian"
+	 Kretoxian_dead:0 " is incapable of holding this post."
+	 EMP_Yuriswe_for_pau:0 "Yuriswe"
+	 Yuriswe_dead:0 " is incapable of holding this post."
+	 EMP_Kavak_for_npo:0 "Kavak"
+	 Kavak_dead:0 " is incapable of holding this post."
+
+	### Economy Minister ###
+	 EMP_Kibbles_eco_pau:0 "Kibbles"
+	 Kibbles_dead:0 " is incapable of holding this post."
+	 EMP_Strategia_eco_pau:0 "Strategia"
+	 Strategia_dead:0 " is incapable of holding this post."
+	 EMP_ArmyDuck_eco_npo:0 "ArmyDuck"
+	 ArmyDuck_dead:0 " is incapable of holding this post."
+
+	### Security Minister ###
+	 EMP_viader_sec_pau:0 "viader"
+	 viader_dead:0 " is incapable of holding this post."
+	 EMP_GP93_sec_npo:0 "GP93"
+	 GP93_dead:0 " is incapable of holding this post."
+
+	### Intelligence Minister ###
+	 EMP_Fernando_int_pau:0 "Fernando"
+	 Fernando_dead:0 " is incapable of holding this post."
+	 EMP_Kornilov_int_npo:0 "Kornilov"
+	 Kornilov_dead:0 " is incapable of holding this post."
+
+	### Military High Command ###
+	 EMP_FlyingDutchman_mhc_pau:0 "FlyingDutchman"
+	 FlyingDutchman_dead:0 " is incapable of holding this post."
+	 EMP_Matej_von_Jakubco_mhc_pau:0 "Matej von Jakubco"
+	 Matej_von_Jakubco_dead:0 " is incapable of holding this post."
+
+	### Chief of Army ###
+	 EMP_Milites_carm_pau:0 "Milites"
+	 Milites_dead:0 " is incapable of holding this post."
+
+	### Chief of Navy ###
+	 EMP_Jedrek_cnav_pau:0 "Jedrek"
+	 Jedrek_dead:0 " is incapable of holding this post."
+	 EMP_Zauberfloete_cnav_pau:0 "Zauberfloete"
+	 Zauberfloete_dead:0 " is incapable of holding this post."
+
+	### Chief of Air Force ###
+	 EMP_Arturius_cair_pau:0 "Arturius"
+	 Arturius_dead:0 " is incapable of holding this post."
+	 EMP_Liam_Riordan_cair_pau:0 "Liam Riordan"
+	 Liam_Riordan_dead:0 " is incapable of holding this post."
+
+  ################################################################################################################################################################################################
+  ### REB
+  ################################################################################################################################################################################################
+
+	### Head of Government ###
+	 REB_Nijato_hog_tot:0 "Nijato"
+	 Nijato_dead:0 " is incapable of holding this post."
+	 REB_Devastator_hog_npo:0 "Devastator"
+	 Devastator_dead:0 " is incapable of holding this post."
+	 REB_Dick_Bong_hog_tot:0 "Dick Bong"
+	 Dick_Bong_dead:0 " is incapable of holding this post."
+	 REB_Dskod1_hog_sco:0 "Dskod1"
+	 Dskod1_dead:0 " is incapable of holding this post."
+
+	### Foreign Minister ###
+	 REB_Zarasophos_for_sli:0 "Zarasophos"
+	 Zarasophos_dead:0 " is incapable of holding this post."
+
+	### Economy Minister ###
+	 REB_mw_eco_rso:0 "~mw~"
+	 mw_dead:0 " is incapable of holding this post."
+	 REB_HappyNTH_eco_pau:0 "HappyNTH"
+	 HappyNTH_dead:0 " is incapable of holding this post."
+	 REB_DK_Github_Arsenal_eco_tot:0 "DK Github Arsenal"
+	 DK_Github_Arsenal_dead:0 " is incapable of holding this post."
+	 REB_CrazyZombie_eco_npo:0 "CrazyZombie"
+	 CrazyZombie_dead:0 " is incapable of holding this post."
+	 REB_Thinking_Waffle_eco_sco:0 "Thinking_Waffle"
+	 Thinking_Waffle_dead:0 " is incapable of holding this post."
+
+	### Security Minister ###
+	 REB_Packard_sec_sli:0 "Packard"
+	 Packard_dead:0 " is incapable of holding this post."
+	 REB_Ahearne_sec_sde:0 "Ahearne"
+	 Ahearne_dead:0 " is incapable of holding this post."
+	 REB_Wyandotte_sec_sli:0 "Wyandotte"
+	 Wyandotte_dead:0 " is incapable of holding this post."
+	 REB_Zankoas_sec_sli:0 "Zankoas"
+	 Zankoas_dead:0 " is incapable of holding this post."
+	 REB_Denizz_sec_npo:0 "Denizz"
+	 Denizz_dead:0 " is incapable of holding this post."
+
+	### Intelligence Minister ###
+	 REB_TBW_int_sde:0 "TBW"
+	 TBW_dead:0 " is incapable of holding this post."
+	 REB_Gibzit_int_npo:0 "Gibzit"
+	 Gibzit_dead:0 " is incapable of holding this post."
+	 REB_Hagamablabla_int_sde:0 "Hagamablabla"
+	 Hagamablabla_dead:0 " is incapable of holding this post."
+
+	### Military High Command ###
+	 REB_Flamefang_mhc_sco:0 "Flamefang"
+	 Flamefang_dead:0 " is incapable of holding this post."
+	 REB_DK_Fanfarenkorps_mhc_tot:0 "DK Fanfarenkorps"
+	 DK_Fanfarenkorps_dead:0 " is incapable of holding this post."
+	 REB_Herkles_mhc_rso:0 "Herkles"
+	 Herkles_dead:0 " is incapable of holding this post."
+
+	### Chief of Army ###
+	 REB_Hayro_carm_pau:0 "Hayro"
+	 Hayro_dead:0 " is incapable of holding this post."
+	 REB_Ddago_carm_npo:0 "DDago"
+	 Ddago_dead:0 " is incapable of holding this post."
+
+	### Chief of Navy ###
+	 REB_dedlift_cnav_sde:0 "dedlift"
+	 dedlift_dead:0 " is incapable of holding this post."
+	 REB_TheClassyBeagle_cnav_npo:0 "TheClassyBeagle"
+	 TheClassyBeagle_dead:0 " is incapable of holding this post."
+
+	### Chief of Air Force ###
+	 REB_PPsyrius_cair_rso:0 "PPsyrius"
+	 PPsyrius_dead:0 " is incapable of holding this post."
+	 REB_Augenis_cair_npo:0 "Augenis"
+	 Augenis_dead:0 " is incapable of holding this post."
