@@ -46,7 +46,7 @@ IRE_IEAA_ELEC:0 "ЗИЭР Годовой Фокус: Электроника"
 IRE_IEAA:0 "Закон об Ирландском Экономическом Развитии"
 IRE_IEAA_desc:0 "Несмотря на нашу свободу, экономика нашего прекрасного острова застопорилась довольно давно и даже в некоторых местах разлагается. С принятием Закона об Ирландском Экономическом Развитии (ЗИЭР) Дойл может решить этот жизненно важный вопрос. Ирландия может быть маленькой, но ее люди трудолюбивы, а ее городам достаточно места для роста."
 ire.ieaa.tt:0 "\nПримите ЗИЭР и начните рассматривать экономическое направление нации."
-ire.debtscheme.tt:0 "\nУменьшит государственный долг на §Osignificant§! единиц в год в дополнение к обычному."
+ire.debtscheme.tt:0 "\nУменьшит государственный долг на §Oзначительное§! колличество единиц в год в дополнение к обычному."
 
 # IEAA event - Collins in charge
 ire.9.t:0 "Дойл Рассматривает экономику"
@@ -93,7 +93,7 @@ ire.242.c:0 "У Ирландской рабочей лиги есть хорош
 # Agri/Infra Wing
 IRE_ARD:0 "Сельскохозяйственная реформа"
 IRE_ARD_desc:0 "Сельские районы Ирландии на сегодняшний день наиболее игнорируются правительством и могут легко служить отправной точкой для радикального экономического улучшения. Наши методы ведения сельского хозяйства крайне устарели по сравнению с сельскохозяйственными революциями, происходящими в материковой части Европы, и наша инфраструктура ужасно позади."
-ire.ard.tt:0 "\nНачните процесс реформ по модернизации §Yagricultural industry§! и её §Yinfrastructure.§!\n\n"
+ire.ard.tt:0 "\nНачните процесс реформ по модернизации §Yсельскохозяйственной промышленности§! и её §Yинфраструктуры.§!\n\n"
 
 ire.ard.no.tt:0 "\n§GПолучите стандартный уровень этого экономического бонуса.§!\n\n"
 
@@ -116,18 +116,18 @@ IRE_MFR2_desc:0 "Мы успешно распространили механиз
 IRE_MFR3:0 "Национальная Механизация Сельского Хозяйства"
 IRE_MFR3_desc:0 "Мы внедрили механизированное сельское хозяйство по всей стране, что позволяет нашим фермам производить гораздо больше продовольствия. Люди Ирландии больше не будут голодны."
 
-IRE_RRMB:0 "Rural Renovations and Maintenance Board"
-IRE_RRMB_desc:0 "The rural areas of Ireland are in need of considerable renovations and maintenance. There is currently no public body tasked with doing these repairs, leaving rural communities to rely on notoriously unreliable private businesses. Putting this into government hands will keep our roads well maintained in good repair. A national maintenance team will also no doubt have benefits should the nation be at war."
-ire.61.t:0 "Maintenance Board Investment"
-ire.61.d:0 "The government has deigned to significantly invest in the RRMB project, allowing the new renovation team to create a larger number of personnel and conduct it's business in a more efficient manner."
-ire.61.a:0 "Full speed ahead."
-ire.61.b:0 "We can live with a few potholes."
+IRE_RRMB:0 "Совет по ремонту и обслуживанию сельских районов"
+IRE_RRMB_desc:0 "Сельские районы Ирландии нуждаются в значительных ремонтных работах и ремонте. В настоящее время нет государственного органа, которому поручено выполнять эти ремонтные работы, в результате чего сельские общины полагаются на пресловутый ненадежный частный бизнес. Вверяя это в руки правительства, наши дороги сохранятся в хорошем состоянии. Национальная служба по обслуживанию также, несомненно, получит выгоду, если нация войдет в войну."
+ire.61.t:0 "Технический Совет"
+ire.61.d:0 "Правительство соизволило инвестировать в проект СРОСР, позволяя новой команде по обновлению создать большее количество персонала и более эффективно вести бизнес."
+ire.61.a:0 "На полной скорости."
+ire.61.b:0 "Мы можем жить с несколькими выбоинами."
 IRE_RRMB1:0 "Технический Совет"
-IRE_RRMB1_desc:0 "The Irish Rural Renovations and Maintenance Board work to diligently repair damaged infrastructure. In times of war, they can also be put to use repairing factories and other vital emplacements."
-IRE_RRMB2:0 "Regional Maintenance Board"
-IRE_RRMB2_desc:0 "The Irish Rural Renovations and Maintenance Board work to diligently repair damaged infrastructure. In times of war, they can also be put to use repairing factories and other vital emplacements. Thanks to increased spending, the maintenance board is more efficient."
-IRE_RRMB3:0 "National Maintenance Board"
-IRE_RRMB3_desc:0 "The Irish Rural Renovations and Maintenance Board work to diligently repair damaged infrastructure. In times of war, they can also be put to use repairing factories and other vital emplacements. Thanks to a heavy investment by the government, the maintenance board is extremely efficient."
+IRE_RRMB1_desc:0 "Совет по ремонту и обслуживанию сельских районов работает над ремонтом поврежденной инфраструктуры. Во время войны их также можно использовать для ремонта заводов и других жизненно важных условий."
+IRE_RRMB2:0 "Местный совет технического обслуживания"
+IRE_RRMB2_desc:0 "Совет по ремонту и обслуживанию сельских районов работает над восстановлением поврежденной инфраструктуры. Во времена войны их также можно использовать для ремонта заводов и других жизненно важных условий. Благодаря увеличению расходов, плата за обслуживание более эффективна."
+IRE_RRMB3:0 "Национальный совет технического обслуживания"
+IRE_RRMB3_desc:0 "Совет по ремонту и обслуживанию сельских районов работает над восстановлением поврежденной инфраструктуры. Во времена войны их также можно использовать для ремонта заводов и других жизненно важных условий. Благодаря тяжелым инвестициям со стороны правительства, совет по техническому обслуживанию является чрезвычайно эффективным."
 
 IRE_TNTN:0 "TransÉireann National Network"
 IRE_TNTN_desc:0 "The railway infrastructure left in place by the British is functional but lacking in comparison to the new high speed rail infrastructure being constructed in Europe. We should learn from our continental neighbours and make an effort to modernise our railways. This will also have a significant effect on our industry's productivity, allowing us to get raw materials more easily to our factories."
