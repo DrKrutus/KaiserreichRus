@@ -184,7 +184,11 @@ IRE_befriend_USA:0 "Друзья Ирландии"
 IRE_befriend_ENG:0 "Warming Relations with Ireland"
 IRE_befriend_FRA:0 "Warming Relations with Ireland"
 IRE_befriend_trade:0 "Ирландские Торговые Партнёры"
+<<<<<<< HEAD
 проверка
+=======
+
+>>>>>>> Krutus
 ### Ideas ###
 IRISH_PROFITS:0 "Ирландская Польза"
 IRISH_PROFITS_desc:0 "Our businesses are thriving in Dublin and we are reaping the benefits."
