@@ -1,0 +1,46 @@
+﻿l_Россия:
+ ST:0 "ая"
+ ND:0 "ая"
+ RD:0 "ья"
+ TH:0 "ая"
+ WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ война"
+ CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ Гражданская война"
+ WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$ освобождение региона $STATE$"
+ WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$ агрессия за регион $STATE$"
+
+ ### 2nd American Civil War ###
+ WAR_NAME_CSA_USA:0 "Вторая Гражданская Война в Америке: Синдикалисты-Федералисты"
+ WAR_NAME_TEX_USA:0 "Вторая Гражданская Война в Америке: Юнионисты-Федералисты"
+ WAR_NAME_CAL_USA:0 "Вторая Гражданская Война в Америке: ТША-Федералисты"
+ WAR_NAME_CAL_CSA:0 "Вторая Гражданская Война в Америке: ТША-Синдикалисты"
+ WAR_NAME_TEX_CSA:0 "Вторая Гражданская Война в Америке: Юнионисты-Синдикалисты"
+ WAR_NAME_CAL_TEX:0 "Вторая Гражданская Война в Америке: ТША-Юнионисты"
+
+ ### Romanian Civil War ###
+ WAR_NAME_ROM_RRM:0 "Румынская Гражданская война"
+
+ ### Арабо-Османская война ###
+ WAR_NAME_OTT_EGY:0 "Арабо-Османская война"
+ WAR_NAME_OTT_SAU:0 "Арабо-Османская война"
+ WAR_NAME_OTT_PER:0 "Арабо-Османская война"
+
+ ### Spanish Civil War ###
+ WAR_NAME_SPR_CAR:0 "Гражданская война в Испании: Лоялисты-Карлисты"
+ WAR_NAME_SPR_CNT:0 "Гражданская война в Испании: Лоялисты-ФАИ"
+ WAR_NAME_CAR_CNT:0 "Гражданская война в Испании: Карлисты-ФАИ"
+
+ ### Вторая Американо-мексиканская война ###
+ WAR_NAME_USA_MEX:0 "Вторая Американо-мексиканская война"
+ WAR_NAME_CAL_MEX:0 "Война между Мексикой и ТША"
+
+ ### Entente-Internationale Wars ###
+ WAR_NAME_CAN_ENG:0 "Reclamation of the Home Islands"
+ WAR_NAME_NFA_FRA:0 "French-Communard War"
+
+ ### 2nd Russian Civil War ###
+ WAR_NAME_RUS_SOV:0 "Вторая Гражданская война в России: Россия-Советы"
+ WAR_NAME_RUS_SIB:0 "Вторая Гражданская война в России: Россия-Сибирь"
+ WAR_NAME_SOV_SIB:0 "Вторая Гражданская война в России: Советы-Сибирь"
+
+ ### The Second Weltkrieg ###
+ WAR_NAME_GER_FRA:0 "Второй Вельткриг"
